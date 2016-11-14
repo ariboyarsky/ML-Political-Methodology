@@ -11,6 +11,6 @@ and statistics.
 This paper was written for a Big Data Course at the George Washington University. If you would like a copy, please email the author at ariboyarsky@gwu.edu.
 
 
-# References
+# Coding References
 Ho, Daniel E. "MatchIt: nonparametric preprocessing for parametric causal inference." PhD diss., Departments of Mental Health and Biostatistics, Johns Hopkins Bloomberg School of Public Health, 1737.
 Feinerer, Ingo, and Hornik, Kurt. "Introduction to the RKEA Package." Cran.R. 2015. https://cran.r-project.org/web/packages/RKEA/vignettes/kea.pdf
