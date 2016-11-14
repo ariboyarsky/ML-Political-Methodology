@@ -1,5 +1,5 @@
 # ML-Political-Methodology
-This repo holds code for a paper which discusses applications of Machine Learning in Political Methodology.
+This repo holds code for a paper which discusses applications of Machine Learning in Political Methodology. This repo is in the form of an R Studio Project.
 
 # Abstract
 The paper explores how recent advances in Machine Learning may be applied to inquiry in the field of Political Science. Specifically, 
