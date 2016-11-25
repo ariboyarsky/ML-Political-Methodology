@@ -8,7 +8,7 @@ how text as data may be employed to study political polorization, and how new te
 causal inference. We also explore the literature and theory behind these methodologies using research in political science, computer science,
 and statistics.
 
-This paper was written for a Big Data Course at the George Washington University. If you would like a copy, please email the author at ariboyarsky@gwu.edu.
+This paper was written for a Big Data course at the George Washington University. If you would like a copy, please email the author at ariboyarsky@gwu.edu.
 
 
 # Coding References
