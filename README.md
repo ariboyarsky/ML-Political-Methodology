@@ -1,12 +1,10 @@
 # ML-Political-Methodology
-This repo holds code for a paper which discusses applications of Machine Learning in Political Methodology. This repo is in the form of an R Studio Project.
+This repo holds code for a paper which discusses applications of Machine Learning in Political Methodology. 
+
+Please note that this code base is in the form of an R Studio Project. Feel free to use this code as you may, though please cite the author as such: Boyarsky, Ariel. "ML-Political-Methodology." Github Repository. 2016.
 
 # Abstract
-The paper explores how recent advances in Machine Learning may be applied to inquiry in the field of Political Science. Specifically, 
-we look at machine learning may aid researchers intrested in "text as data," and casual identification. To accomplish this we look to at 
-how text as data may be employed to study political polorization, and how new techniques in data analysis may solve questions of
-causal inference. We also explore the literature and theory behind these methodologies using research in political science, computer science,
-and statistics.
+we look at how machine learning techniques can aid researchers through text analysis and casual identification. To accomplish this we look at how sentiment analysis may be employed to study political polarization, and how new techniques in data analysis may solve questions of causal inference. We also explore the literature and theory behind these methodologies using research in political science, computer science, and statistics. We hope that this paper serves as an introduction to the use of advanced computational methods in political analysis. 
 
 This paper was written for a Big Data course at the George Washington University. If you would like a copy, please email the author at ariboyarsky@gwu.edu.
 
